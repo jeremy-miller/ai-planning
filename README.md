@@ -1,4 +1,4 @@
-# AI Planning Implenetations
+# AI Planning Implementations
 
 Implementations of the following AI planning methodologies.
 
